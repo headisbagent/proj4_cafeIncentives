@@ -1,0 +1,9 @@
+source,type,kWh/kg,kgCO2/kgbattery
+Nottar,bev,0.11,6
+Majeau-Bettez,phev,0.11,22
+Majeau-Bettez,bev,0.09,22
+Zackrisson,phev,0.09,25
+EPA,phev,0.08,5
+EPA,bev,0.1,16
+Dunn,phev,0.11,5.1
+Dunn,bev,0.13,5.1
