@@ -1,0 +1,6 @@
+make.model,gas.emissions,alt.emissions,percent.altfuel,type
+Chevy Volt,177.4251497,170.7431,0.66,phev
+Chevy Impala,319.294,379,0.5,ffv
+Ford Focus,0,158.9025599,1,bev
+Nissan Leaf,0,144.1262263,1,bev
+Toyota Prius,127.4357445,142.7623981,0.29,phev
