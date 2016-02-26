@@ -1,0 +1,7 @@
+make.model,type,avg.em,avg.tail.em,gas.emissions,alt.emissions,percent.altfuel,kWh capacity
+Chevy Volt,phev,173.0149969,87,177.4251497,170.7431,0.66,16
+Nissan Leaf,bev,144.1262263,0,0,144.1262263,1,24
+Toyota Prius,phev,131.8804741,133,127.4357445,142.7623981,0.29,4.4
+Ford Focus,bev,158.9025599,0,0,158.9025599,1,23
+Mitsubishi i-MiEV,bev,148.3531763,0,0,148.3531763,1,16
+Toyota RAV4,bev,218.5455236,0,0,218.5455236,1,41.8
